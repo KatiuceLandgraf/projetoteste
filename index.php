@@ -6,8 +6,6 @@
         <title></title>
     </head>
     <body>
-        <?php
-        // put your code here
-        ?>
+        Este é a minha modificação.
     </body>
 </html>
